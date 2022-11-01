@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\sanchit\\download\\jsoup-1.15.1.jar",
+        "d:\\sanchit\\download\\opencsv-4.1.jar",
+        "d:\\sanchit\\download\\commons-beanutils-1.9.3.jar",
+        "d:\\sanchit\\download\\commons-collections-3.2.2.jar",
+        "d:\\sanchit\\download\\commons-lang3-3.6.jar",
+        "d:\\sanchit\\download\\commons-logging-1.2.jar",
+        "d:\\sanchit\\download\\commons-text-1.1.jar",
+        "d:\\sanchit\\download\\jython-standalone-2.7.2.jar",
+        "d:\\sanchit\\download\\JyNI.jar",
+        "d:\\sanchit\\download\\jsoup-1.15.3.jar"
+    ]
+}
